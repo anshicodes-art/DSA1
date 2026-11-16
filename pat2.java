@@ -14,7 +14,7 @@ public class pat2 {
                 }
             if(i!=0){
                     for(int k=1;k<=i;k++){
-                       System.out.print("*"); 
+                        System.out.print("*");
                     }
                     }
         
